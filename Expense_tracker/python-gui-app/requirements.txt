@@ -1,0 +1,6 @@
+Tkinter
+bcrypt
+matplotlib
+pandas
+mysql-connector-python
+sqlite3
